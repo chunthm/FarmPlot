@@ -1,2 +1,2 @@
-# FarmPlot-ExampleProjectMDT112-
+# FarmPlot
 ExampleProjectMDT112
