@@ -33,7 +33,7 @@
 ### โครงสร้างพื้นฐาน
 ![diagram picture][diagram]
 
-[diagram]: https://github.com/ruangrith-ri/FarmPlot/blob/master/image/flowchart.jpg "Diagram"
+[diagram]: https://github.com/chunthm/FarmPlot/blob/master/image/flowchart.jpg "Flowchart"
 
 ### ระบบการทำงาน 
 ![flowchart picture][flowchart]
