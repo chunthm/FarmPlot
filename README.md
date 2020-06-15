@@ -38,4 +38,4 @@
 ### ระบบการทำงาน 
 ![flowchart picture][flowchart]
 
-[flowchart]: https://github.com/ruangrith-ri/FarmPlot/blob/master/image/diagram.jpg "flowchart"
+[flowchart]: https://github.com/chunthm/FarmPlot/blob/master/image/diagram.jpg "Diagram"
