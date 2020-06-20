@@ -1,4 +1,4 @@
-int RGBPin[] = { 9, 10, 11 };
+int RGBPin[] = {9, 10, 11};
 
 void setup() {
   pinMode(RGBPin[0], OUTPUT);
@@ -13,10 +13,10 @@ void SetRGB(int r, int g, int b) {
 }
 
 void loop() {
-  SetRGB(255,0,255);
+  SetRGB(255, 0, 255);
   delay(1000);
-  SetRGB(0,255,255);
+  SetRGB(0, 255, 255);
   delay(1000);
-  SetRGB(255,0,0);
+  SetRGB(255, 0, 0);
   delay(1000);
 }
